@@ -1,0 +1,3 @@
+[submodule "machine-learning-uiuc"]
+	path = machine-learning-uiuc
+	url = git@github.com:mindmachine/ml
